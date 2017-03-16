@@ -427,5 +427,5 @@ Disassembly of section .data:
 80002009 <tdat10>:
 80002009:	000000ef          	jal	ra,80002009 <tdat10>
 8000200d:	0000                	unimp
-8000200f:	00 e0 2f 20 00          	Address 0x000000008000200f is out of bounds.
+8000200f:	00 20 00 00 00          	Address 0x000000008000200f is out of bounds.
 

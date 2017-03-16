@@ -286,5 +286,5 @@ Disassembly of section .data:
 80002009:	0000                	unimp
 8000200b:	0000                	unimp
 8000200d:	0000                	unimp
-8000200f:	00 a0 20 30 00          	Address 0x000000008000200f is out of bounds.
+8000200f:	00 20 00 00 00          	Address 0x000000008000200f is out of bounds.
 
